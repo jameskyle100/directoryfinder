@@ -26,6 +26,7 @@ DirectoryFinder is a fast, threaded web directory and file fuzzer written in Pyt
 - Internet connectivity to target
 
 No external Python libraries are required.
+<img width="937" height="858" alt="Screenshot_2026-01-31_14-39-03" src="https://github.com/user-attachments/assets/e8b19fd9-b4f0-4148-8035-417fcc5f68fb" />
 
 ---
 
@@ -47,7 +48,6 @@ Basic usage:
 python3 directoryfinder.py http://example.com -w wordlist.txt
 
 Example
-p<img width="937" height="858" alt="Screenshot_2026-01-31_14-39-03" src="https://github.com/user-attachments/assets/df8116bc-ea32-49a2-a982-2629fa055863" />
 ython3 directoryfinder.py https://target.site -w common.txt -t 100 --timeout 3
 
 
