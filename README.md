@@ -49,6 +49,11 @@ python3 directoryfinder.py http://example.com -w wordlist.txt
 Example
 python3 directoryfinder.py https://target.site -w common.txt -t 100 --timeout 3
 
+<img width="743" height="352" alt="image" src="https://github.com/user-attachments/assets/be7124bc-71cd-445f-afca-74776c4d49c5" />
+
+<img width="933" height="103" alt="image" src="https://github.com/user-attachments/assets/906068ad-96ce-493b-83e8-fef4687b5d5f" />
+
+
 
 Notes
 
